@@ -1,5 +1,17 @@
 body {
-    font-family:Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #c3ecf5;
+    background-color: #6cbef5;
+}
+        /*CSS do Título*/
+.titulo{
+    text-align: center;
+    text-decoration: none;
+    font-size: 70px;
+    color: #eaf5c3;
+    -webkit-text-stroke-width: 0.1px; 
+    -webkit-text-stroke-color: #000;
+    font-family: 'Karantina';
+    -webkit-text-stroke-width: 0.7px; /* largura da borda */
+    -webkit-text-stroke-color: #000; /* cor da borda */
+}
